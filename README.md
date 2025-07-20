@@ -223,6 +223,3 @@ The application seeds demo data on first run:
 - Check logs in Visual Studio Output window
 - Use Swagger UI for API testing
 - Review Entity Framework migrations if needed
-
-## License
-MIT License - Feel free to use this project for commercial purposes.
